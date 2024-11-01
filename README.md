@@ -1,16 +1,24 @@
-## Hi there 👋
+# Skills
 
-<!--
-**EbinaKai/EbinaKai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Language
 
-Here are some ideas to get you started:
+[![Languages](https://skillicons.dev/icons?i=py,java,c,cpp)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Web Developments
+[![Web Developments](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,vue,php,wordpress,flask,nginx)](https://skillicons.dev)
+
+## Platform
+[![Platforms](https://skillicons.dev/icons?i=apple,linux,ubuntu,docker,arduino,cloudflare,raspberrypi)](https://skillicons.dev)
+
+## Framework
+[![Frameworks](https://skillicons.dev/icons?i=anaconda,ansible,tensorflow,opencv,qt)](https://skillicons.dev)
+
+
+## Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,redis,)](https://skillicons.dev)
+
+## Development Tools
+[![Development Tools](https://skillicons.dev/icons?i=git,github,postman,bash,cmake,vim,vscode)](https://skillicons.dev)
+
+## Others
+[![Others](https://skillicons.dev/icons?i=gmail,twitter,discord,instagram,md,notion)](https://skillicons.dev)
