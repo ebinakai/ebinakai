@@ -2,23 +2,23 @@
 
 ## Language
 
-[![Languages](https://skillicons.dev/icons?i=py,java,c,cpp)](https://skillicons.dev)
+![Languages](https://skillicons.dev/icons?i=py,java,c,cpp)
 
 ## Web Developments
-[![Web Developments](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,vue,php,wordpress,flask,nginx)](https://skillicons.dev)
+![Web Developments](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,vue,php,wordpress,flask,nginx)
 
 ## Platform
-[![Platforms](https://skillicons.dev/icons?i=apple,linux,ubuntu,docker,arduino,cloudflare,raspberrypi)](https://skillicons.dev)
+![Platforms](https://skillicons.dev/icons?i=apple,linux,ubuntu,docker,arduino,cloudflare,raspberrypi)
 
 ## Framework
-[![Frameworks](https://skillicons.dev/icons?i=anaconda,ansible,tensorflow,opencv,qt)](https://skillicons.dev)
+![Frameworks](https://skillicons.dev/icons?i=anaconda,ansible,tensorflow,opencv,qt)
 
 
 ## Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,redis,)](https://skillicons.dev)
+![Databases](https://skillicons.dev/icons?i=mysql,redis,)
 
 ## Development Tools
-[![Development Tools](https://skillicons.dev/icons?i=git,github,postman,bash,cmake,vim,vscode)](https://skillicons.dev)
+![Development Tools](https://skillicons.dev/icons?i=git,github,postman,bash,cmake,vim,vscode)
 
 ## Others
-[![Others](https://skillicons.dev/icons?i=gmail,twitter,discord,instagram,md,notion)](https://skillicons.dev)
+![Others](https://skillicons.dev/icons?i=gmail,twitter,discord,instagram,md,notion)
