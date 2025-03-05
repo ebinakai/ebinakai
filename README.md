@@ -8,7 +8,7 @@
 ![Web Developments](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,vue,php,wordpress,flask,nginx)
 
 ## Platform
-![Platforms](https://skillicons.dev/icons?i=apple,linux,ubuntu,docker,arduino,cloudflare,raspberrypi)
+![Platforms](https://skillicons.dev/icons?i=apple,ubuntu,docker,arduino,cloudflare,raspberrypi)
 
 ## Framework
 ![Frameworks](https://skillicons.dev/icons?i=anaconda,ansible,tensorflow,opencv,qt)
