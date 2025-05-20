@@ -18,7 +18,7 @@
 ![Databases](https://skillicons.dev/icons?i=mysql,redis)
 
 ## Development Tools
-![Development Tools](https://skillicons.dev/icons?i=git,github,postman,bash,vscode)
+![Development Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
 
 ## Others
 ![Others](https://skillicons.dev/icons?i=gmail,twitter,discord,md,notion)
