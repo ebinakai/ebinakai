@@ -11,7 +11,7 @@
 ![Platforms](https://skillicons.dev/icons?i=apple,ubuntu,docker,raspberrypi)
 
 ## Framework
-![Frameworks](https://skillicons.dev/icons?i=ansible,tensorflow,opencv)
+![Frameworks](https://skillicons.dev/icons?i=ansible,opencv)
 
 
 ## Databases
