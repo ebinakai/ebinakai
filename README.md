@@ -10,13 +10,9 @@
 ## Platform
 ![Platforms](https://skillicons.dev/icons?i=apple,ubuntu,docker,raspberrypi)
 
-## Framework
-![Frameworks](https://skillicons.dev/icons?i=ansible)
-
-
 ## Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,redis)
 
 ## Development Tools
-![Development Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
+![Development Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,ansible)
 
