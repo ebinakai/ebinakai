@@ -11,7 +11,7 @@
 ![Platforms](https://skillicons.dev/icons?i=apple,ubuntu,docker,raspberrypi)
 
 ## Framework
-![Frameworks](https://skillicons.dev/icons?i=ansible,opencv)
+![Frameworks](https://skillicons.dev/icons?i=ansible)
 
 
 ## Databases
@@ -20,5 +20,3 @@
 ## Development Tools
 ![Development Tools](https://skillicons.dev/icons?i=git,github,postman,vscode)
 
-## Others
-![Others](https://skillicons.dev/icons?i=gmail,twitter,discord,md,notion)
